@@ -1,4 +1,4 @@
-# OctoProfile
+# GityProfile
 
 A nicer look at your GitHub Profile! With charts!
 
