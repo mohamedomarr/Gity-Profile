@@ -2,6 +2,8 @@
 
 A nicer look at your GitHub Profile! With charts!
 
+[Check it out](https://gityprofile.vercel.app/)
+
 ![demo](https://raw.githubusercontent.com/mohamedomarr/gityprofile/master/static/og.png)
 
 Built with:
